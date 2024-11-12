@@ -1,0 +1,14 @@
+/Users/giorgos/RiderProjects/OmoiotitaStringsChasapis/bin/Debug/net8.0/OmoiotitaStringsChasapis
+/Users/giorgos/RiderProjects/OmoiotitaStringsChasapis/bin/Debug/net8.0/OmoiotitaStringsChasapis.deps.json
+/Users/giorgos/RiderProjects/OmoiotitaStringsChasapis/bin/Debug/net8.0/OmoiotitaStringsChasapis.runtimeconfig.json
+/Users/giorgos/RiderProjects/OmoiotitaStringsChasapis/bin/Debug/net8.0/OmoiotitaStringsChasapis.dll
+/Users/giorgos/RiderProjects/OmoiotitaStringsChasapis/bin/Debug/net8.0/OmoiotitaStringsChasapis.pdb
+/Users/giorgos/RiderProjects/OmoiotitaStringsChasapis/obj/Debug/net8.0/OmoiotitaStringsChasapis.GeneratedMSBuildEditorConfig.editorconfig
+/Users/giorgos/RiderProjects/OmoiotitaStringsChasapis/obj/Debug/net8.0/OmoiotitaStringsChasapis.AssemblyInfoInputs.cache
+/Users/giorgos/RiderProjects/OmoiotitaStringsChasapis/obj/Debug/net8.0/OmoiotitaStringsChasapis.AssemblyInfo.cs
+/Users/giorgos/RiderProjects/OmoiotitaStringsChasapis/obj/Debug/net8.0/OmoiotitaStringsChasapis.csproj.CoreCompileInputs.cache
+/Users/giorgos/RiderProjects/OmoiotitaStringsChasapis/obj/Debug/net8.0/OmoiotitaStringsChasapis.dll
+/Users/giorgos/RiderProjects/OmoiotitaStringsChasapis/obj/Debug/net8.0/refint/OmoiotitaStringsChasapis.dll
+/Users/giorgos/RiderProjects/OmoiotitaStringsChasapis/obj/Debug/net8.0/OmoiotitaStringsChasapis.pdb
+/Users/giorgos/RiderProjects/OmoiotitaStringsChasapis/obj/Debug/net8.0/OmoiotitaStringsChasapis.genruntimeconfig.cache
+/Users/giorgos/RiderProjects/OmoiotitaStringsChasapis/obj/Debug/net8.0/ref/OmoiotitaStringsChasapis.dll
