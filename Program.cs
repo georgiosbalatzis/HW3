@@ -38,7 +38,7 @@ class Program
             }
             Console.WriteLine("Οι αλφαριθμητικες ακολουθιες ειναι ομοιες κατα ποσοστο : " +
                               (double) similarity / s1.Length * 100 + "%");
-            Environment.Exit(0);
+            Environment.Exit(1);
         } while (true);
     }
 }
